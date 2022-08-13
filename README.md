@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeanpetitt
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning web programming, programming mobil application
+- 🌱 I’m currently learning web programming, mobil application programming, machine learning
 - 💞️ I’m looking to collaborate on github communauty
 - 📫 How to reach me : jeanpetityvelos@gmail.com / jean.bikim@facsciences-uy1.cm
 
