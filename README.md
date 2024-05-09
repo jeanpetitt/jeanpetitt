@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeanpetitt
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning web programming, mobil application programming, machine learning
+- 👀 I’m Software engineer and AI expert
+- 🌱 I’m currently work at TIB as Frontend developer and i also participate in AI research fields on the semantic annotation of the table usimg Large language Models
 - 💞️ I’m looking to collaborate on github communauty
 - 📫 How to reach me : jeanpetityvelos@gmail.com / jean.bikim@facsciences-uy1.cm
 
