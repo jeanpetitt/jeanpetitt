@@ -2,7 +2,7 @@
 - 👀 I’m Software engineer and AI expert
 - 🌱 I’m currently work at TIB as Frontend developer and i also participate in AI research fields on the semantic annotation of the table usimg Large language Models
 - 💞️ I’m looking to collaborate on github communauty
-- 📫 How to reach me : jeanpetityvelos@gmail.com / jean.bikim@facsciences-uy1.cm
+- 📫 How to reach me : jeanpetityvelos@gmail.com / jean.bikim@facsciences-uy1.cm / Jean.Petit@tib.eu
 
 <!---
 jeanpetitt/jeanpetitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
